@@ -1,1 +1,2 @@
 this is m2 file data - line 2
+this is m2 file data - line 3
